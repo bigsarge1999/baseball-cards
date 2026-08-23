@@ -1,2 +1,0 @@
-# baseball-cards
-baseball cards
